@@ -1,8 +1,25 @@
-streamlit
-Pillow>=9.5.0,<10.0
-opencv-python>=4.8.0.76,<4.9
-torch>=1.13.0
-ultralytics
-split-folders
+# Web interface
+streamlit>=1.32.0
+
+# Image processing
+opencv-python==4.8.0.76
+Pillow==9.5.0
+numpy>=1.24.0
+
+# YOLOv8 by Ultralytics
+ultralytics>=8.0.0
+
+# Utility
+split-folders>=0.5.1
+
+# For improved formatting and logs (used in Ultralytics)
+rich>=13.3.5
+markdown-it-py>=3.0.0
+mdurl>=0.1.2
+pygments>=2.15.1
+
+pip install -r requirements.txt
+pip install --upgrade pip
+
 
 
