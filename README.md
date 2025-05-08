@@ -1,5 +1,5 @@
 
-# 🧠 YOLOv8 for Medical Imaging
+# 🧠 Medical Imaging
 YOLO (You Only Look Once) is renowned for its ability to detect objects in a single pass through an image, making it one of the most efficient and accurate object detection algorithms available. 🎯
 
 The latest release — YOLOv8, introduced by Ultralytics in January 2023 — brings significant improvements in speed, accuracy, and versatility across various computer vision tasks.
