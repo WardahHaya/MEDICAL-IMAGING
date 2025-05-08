@@ -51,7 +51,7 @@ Provides an overview of the project, background on YOLOv8, and instructions for 
 
 🧭 Object Detection
 Detects Red Blood Cells, White Blood Cells, and Platelets in blood smear images.
-![Object]https://github.com/WardahHaya/MEDICAL-IMAGING/blob/main/detection_ss.png
+![Object](https://github.com/WardahHaya/MEDICAL-IMAGING/blob/main/detection_ss.png)
 
 🩺 Classification
 Classifies chest X-ray images as COVID-19, Viral Pneumonia, or Normal.
@@ -60,7 +60,7 @@ Classifies chest X-ray images as COVID-19, Viral Pneumonia, or Normal.
 
 🩻 Segmentation
 Segments tumor regions in breast ultrasound scans for enhanced visualization.
-![Segment](https://github.com/sevdaimany/YOLOv8-Medical-Imaging/blob/master/segmentation/segmentation_screenshot.png)
+![Segment](https://github.com/WardahHaya/MEDICAL-IMAGING/blob/main/segmentation_ss.png)
 
 
 **Run the Streamlit App:**
