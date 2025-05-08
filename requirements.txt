@@ -1,5 +1,7 @@
 streamlit
-Pillow==9.5.0
-opencv-python==4.8.0.76
+Pillow>=9.5.0,<10.0
+opencv-python>=4.8.0.76,<4.9
+torch>=1.13.0  # or the version compatible with your deployment environment
 ultralytics
 split-folders
+
