@@ -47,7 +47,7 @@ Below are screenshots showcasing different parts of the application:
 
 📘 About Page
 Provides an overview of the project, background on YOLOv8, and instructions for use.
-![About](https://github.com/sevdaimany/YOLOv8-Medical-Imaging/blob/master/intro_screenshot.png)](https://github.com/WardahHaya/MEDICAL-IMAGING/blob/main/classification_ss.png)
+![About]((https://github.com/WardahHaya/MEDICAL-IMAGING/blob/main/classification_ss.png)
 
 🧭 Object Detection
 Detects Red Blood Cells, White Blood Cells, and Platelets in blood smear images.
